@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ariadne28.github.io/TMDRA-Bongiorni-Denitto/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in ariadne28/TMDRA-Bongiorni-Denitto project"
+        ]
+    },
+    "items": []
+}
